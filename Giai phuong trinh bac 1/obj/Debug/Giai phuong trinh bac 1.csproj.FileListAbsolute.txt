@@ -1,0 +1,10 @@
+E:\TMDT\PROJECT\Giai phuong trinh bac 1\Giai phuong trinh bac 1\bin\Debug\Giai phuong trinh bac 1.exe.config
+E:\TMDT\PROJECT\Giai phuong trinh bac 1\Giai phuong trinh bac 1\bin\Debug\Giai phuong trinh bac 1.exe
+E:\TMDT\PROJECT\Giai phuong trinh bac 1\Giai phuong trinh bac 1\bin\Debug\Giai phuong trinh bac 1.pdb
+E:\TMDT\PROJECT\Giai phuong trinh bac 1\Giai phuong trinh bac 1\obj\Debug\Giai phuong trinh bac 1.csprojAssemblyReference.cache
+E:\TMDT\PROJECT\Giai phuong trinh bac 1\Giai phuong trinh bac 1\obj\Debug\Giai_phuong_trinh_bac_1.Form1.resources
+E:\TMDT\PROJECT\Giai phuong trinh bac 1\Giai phuong trinh bac 1\obj\Debug\Giai_phuong_trinh_bac_1.Properties.Resources.resources
+E:\TMDT\PROJECT\Giai phuong trinh bac 1\Giai phuong trinh bac 1\obj\Debug\Giai phuong trinh bac 1.csproj.GenerateResource.cache
+E:\TMDT\PROJECT\Giai phuong trinh bac 1\Giai phuong trinh bac 1\obj\Debug\Giai phuong trinh bac 1.csproj.CoreCompileInputs.cache
+E:\TMDT\PROJECT\Giai phuong trinh bac 1\Giai phuong trinh bac 1\obj\Debug\Giai phuong trinh bac 1.exe
+E:\TMDT\PROJECT\Giai phuong trinh bac 1\Giai phuong trinh bac 1\obj\Debug\Giai phuong trinh bac 1.pdb
